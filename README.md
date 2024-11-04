@@ -39,3 +39,9 @@ Os exercícios permitem adicionar, listar, remover e exibir informações de for
 ---
 
 ## Como executar os exercícios
+
+1.**Clone o Repositório**
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repositorio.git
+
+---
