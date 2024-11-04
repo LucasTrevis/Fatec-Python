@@ -39,7 +39,7 @@ Os exercícios permitem adicionar, listar, remover e exibir informações de for
     └── gerenciador_pacientes.py    # Gerenciador de pacientes
 ---
 
-## Como Executar os Exercícios
+# Como Executar os Exercícios
 
 1. **Clone o repositório:**
    ```bash
