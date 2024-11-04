@@ -35,13 +35,23 @@ Os exercícios permitem adicionar, listar, remover e exibir informações de for
 /exercicios
     ├── gerenciador_jogadores.py   # Gerenciador de jogadores de futebol
     └── gerenciador_pacientes.py    # Gerenciador de pacientes
-
 ---
 
-## Como executar os exercícios
+## Como Executar os Exercícios
 
-1.**Clone o Repositório**
+1. **Clone o repositório:**
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
 
----
+    Navegue até o diretório do projeto:
+
+    bash
+
+cd seu-repositorio/exercicios
+
+Execute o exercício desejado:
+
+bash
+
+python gerenciador_jogadores.py   # Para o gerenciador de jogadores
+python gerenciador_pacientes.py    # Para o gerenciador de pacientes
