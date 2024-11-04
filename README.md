@@ -24,7 +24,7 @@ Os exercícios permitem adicionar, listar, remover e exibir informações de for
 
 ## Tecnologias Utilizadas
 
-- **Python 3.x**
+- **Python 3.11.4**
 - **Biblioteca `os`** para manipulação do sistema
 
 ---
@@ -35,3 +35,7 @@ Os exercícios permitem adicionar, listar, remover e exibir informações de for
 /exercicios
     ├── gerenciador_jogadores.py   # Gerenciador de jogadores de futebol
     └── gerenciador_pacientes.py    # Gerenciador de pacientes
+
+---
+
+## Como executar os exercícios
